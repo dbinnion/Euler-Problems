@@ -1,4 +1,4 @@
-# Project-Euler-Problem-10
+# Project-Euler-Problem-7
 
 Motivation:
 
